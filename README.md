@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/k1mrb0kvi5jbq0sq?svg=true)](https://ci.appveyor.com/project/IvanaLavansk/patterns1-0)
 
 # Домашнее задание к занятию «2.3.1. Patterns»
 ## Настройка CI
